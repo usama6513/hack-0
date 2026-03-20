@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Employee Secrets - NEVER COMMIT THESE
+# OAuth Tokens
+AI_Employee_Vault/token.json
+AI_Employee_Vault/credentials.json
+AI_Employee_Vault/linkedin_credentials.json
+AI_Employee_Vault/facebook_credentials.json
+AI_Employee_Vault/instagram_credentials.json
+AI_Employee_Vault/twitter_credentials.json
+AI_Employee_Vault/odoo_credentials.json
+AI_Employee_Vault/whatsapp_session.json
+AI_Employee_Vault/whatsapp_session/
+
+# Environment Files with Secrets
+AI_Employee_Vault/.env
+*.env
+
+# OAuth State Files
+AI_Employee_Vault/*_oauth_state.json
+AI_Employee_Vault/state.json
+
+# Session Files
+AI_Employee_Vault/*.session
+AI_Employee_Vault/session_*.json
+
+# Logs (optional - can keep if you want)
+*.log
+AI_Employee_Vault/*.log
+
+# Temporary files
+AI_Employee_Vault/tmp/
+AI_Employee_Vault/temp/
+
+# Approval logs with sensitive data
+AI_Employee_Vault/approval_log.json
+
+# Test results
+AI_Employee_Vault/test_results.json
