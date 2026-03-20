@@ -1,0 +1,56 @@
+{
+  "servers": {
+    "social_media_mcp": {
+      "enabled": true,
+      "port": 8081,
+      "endpoint": "/mcp/social",
+      "description": "Handles social media posting and management",
+      "supported_actions": [
+        "post_to_facebook",
+        "post_to_instagram",
+        "post_to_twitter",
+        "get_social_metrics"
+      ]
+    },
+    "email_mcp": {
+      "enabled": true,
+      "port": 8082,
+      "endpoint": "/mcp/email",
+      "description": "Handles email sending and management",
+      "supported_actions": [
+        "send_email",
+        "check_email",
+        "create_draft"
+      ]
+    },
+    "accounting_mcp": {
+      "enabled": true,
+      "port": 8083,
+      "endpoint": "/mcp/accounting",
+      "description": "Handles accounting and financial operations",
+      "supported_actions": [
+        "create_invoice",
+        "create_customer",
+        "sync_odoo"
+      ]
+    },
+    "communication_mcp": {
+      "enabled": true,
+      "port": 8084,
+      "endpoint": "/mcp/communication",
+      "description": "Handles general communication operations",
+      "supported_actions": [
+        "send_whatsapp",
+        "process_message",
+        "schedule_communication"
+      ]
+    }
+  },
+  "global_settings": {
+    "default_timeout": 30,
+    "max_concurrent_requests": 10,
+    "enable_logging": true,
+    "log_level": "INFO",
+    "authentication_required": true
+  }
+}

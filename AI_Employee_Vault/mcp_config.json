@@ -1,0 +1,19 @@
+{
+  "mcp_enabled": true,
+  "servers": {
+    "email": {
+      "enabled": true,
+      "endpoint": "http://localhost:8080/mcp/email",
+      "api_key": "",
+      "timeout": 30
+    }
+  },
+  "smtp_fallback": {
+    "enabled": true,
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "username": "",
+    "password": "",
+    "use_tls": true
+  }
+}

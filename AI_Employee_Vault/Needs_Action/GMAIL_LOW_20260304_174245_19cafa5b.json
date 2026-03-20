@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "LinkedIn Developer Access No-Reply <api-noreply@linkedin.com>",
+  "subject": "Welcome! Jumpstart your development with LinkedIn Sign In with LinkedIn using OpenID Connect - CRM:015285033592895",
+  "snippet": "Dear Usama Aryan, Thank you for your patience as we reviewed your application. We have provisioned your app with id - 231723462, for Standard Tier access to our Sign In with LinkedIn using OpenID",
+  "message_id": "19cafa5b4dd4282b",
+  "received_at": "2026-03-04T17:42:45.051533",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

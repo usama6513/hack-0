@@ -1,0 +1,232 @@
+2026-03-15 14:48:00,880 - facebook_integration - INFO - [OK] Created Facebook credentials template: ./facebook_credentials.json
+2026-03-15 14:48:00,880 - facebook_integration - INFO - Please fill in your Facebook credentials
+2026-03-15 14:48:00,881 - facebook_integration - INFO - [OK] Facebook post created and saved: ./Facebook_Posts\facebook_post_20260315_144800.json
+2026-03-15 14:48:00,882 - facebook_integration - INFO - [OK] Facebook summary generated: ./Social_Media\facebook_summary_20260315.json
+2026-03-15 14:48:00,886 - instagram_integration - INFO - [OK] Created Instagram credentials template: ./instagram_credentials.json
+2026-03-15 14:48:00,887 - instagram_integration - INFO - Please fill in your Instagram credentials
+2026-03-15 14:48:00,887 - instagram_integration - INFO - [OK] Instagram post created and saved: ./Instagram_Posts\instagram_post_20260315_144800.json
+2026-03-15 14:48:00,888 - instagram_integration - INFO - [OK] Instagram summary generated: ./Social_Media\instagram_summary_20260315.json
+2026-03-15 14:48:00,891 - twitter_integration - INFO - [OK] Created Twitter credentials template: ./twitter_credentials.json
+2026-03-15 14:48:00,891 - twitter_integration - INFO - Please fill in your Twitter credentials
+2026-03-15 14:48:00,892 - twitter_integration - INFO - [OK] Twitter post created and saved: ./Twitter_Posts\twitter_post_20260315_144800.json
+2026-03-15 14:48:00,892 - twitter_integration - INFO - [OK] Twitter summary generated: ./Social_Media\twitter_summary_20260315.json
+2026-03-15 14:48:00,983 - odoo_integration - INFO - [OK] Created Odoo credentials template: ./odoo_credentials.json
+2026-03-15 14:48:00,983 - odoo_integration - INFO - Please fill in your local Odoo credentials
+2026-03-15 14:48:00,983 - odoo_integration - INFO - [OK] Created Odoo config template: ./odoo_config.json
+2026-03-15 14:48:05,091 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:48:09,177 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:48:09,189 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_144809_personal_business_sync.json
+2026-03-15 14:48:09,190 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_144809_calendar_integration.json
+2026-03-15 14:48:09,190 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 14:48:09,191 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_144809.md
+2026-03-15 14:48:09,198 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_144809.json
+2026-03-15 14:48:09,199 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_144809.json
+2026-03-15 14:48:09,200 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 14:48:09,207 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_144809.md
+2026-03-15 14:48:09,207 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 14:48:09,208 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_144809.md
+2026-03-15 14:48:09,215 - error_recovery - INFO - [OK] Created default error patterns: ./Config\error_patterns.json
+2026-03-15 14:48:09,215 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 14:48:09,216 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144809.json
+2026-03-15 14:48:09,216 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 14:48:14,219 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144814.json
+2026-03-15 14:48:14,219 - error_recovery - INFO - Found 2 potential issues
+2026-03-15 14:48:14,219 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 14:48:14,221 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144814.json
+2026-03-15 14:48:14,221 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:48:14,222 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144814.json
+2026-03-15 14:48:14,222 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 14:48:14,223 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144814.json
+2026-03-15 14:48:14,223 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:48:14,224 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144814.json
+2026-03-15 14:48:14,225 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_144814.json
+2026-03-15 14:48:14,232 - audit_logger - INFO - [OK] Created default audit configuration: ./Config\audit_config.json
+2026-03-15 14:48:14,233 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 14:49:09,923 - facebook_integration - INFO - [OK] Facebook post created and saved: ./Facebook_Posts\facebook_post_20260315_144909.json
+2026-03-15 14:49:09,924 - facebook_integration - INFO - [OK] Facebook summary generated: ./Social_Media\facebook_summary_20260315.json
+2026-03-15 14:49:09,927 - instagram_integration - INFO - [OK] Instagram post created and saved: ./Instagram_Posts\instagram_post_20260315_144909.json
+2026-03-15 14:49:09,928 - instagram_integration - INFO - [OK] Instagram summary generated: ./Social_Media\instagram_summary_20260315.json
+2026-03-15 14:49:09,932 - twitter_integration - INFO - [OK] Twitter post created and saved: ./Twitter_Posts\twitter_post_20260315_144909.json
+2026-03-15 14:49:09,933 - twitter_integration - INFO - [OK] Twitter summary generated: ./Social_Media\twitter_summary_20260315.json
+2026-03-15 14:49:14,058 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:49:18,135 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:49:18,139 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_144918_personal_business_sync.json
+2026-03-15 14:49:18,140 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_144918_calendar_integration.json
+2026-03-15 14:49:18,140 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 14:49:18,141 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_144918.md
+2026-03-15 14:49:18,143 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_144918.json
+2026-03-15 14:49:18,144 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_144918.json
+2026-03-15 14:49:18,144 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 14:49:18,146 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_144918.md
+2026-03-15 14:49:18,146 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 14:49:18,147 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_144918.md
+2026-03-15 14:49:18,148 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 14:49:18,149 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144918.json
+2026-03-15 14:49:18,149 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 14:49:23,151 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144923.json
+2026-03-15 14:49:23,151 - error_recovery - INFO - Found 5 potential issues
+2026-03-15 14:49:23,152 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 14:49:23,154 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144923.json
+2026-03-15 14:49:23,154 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:49:23,155 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144923.json
+2026-03-15 14:49:23,155 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 14:49:23,155 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144923.json
+2026-03-15 14:49:23,156 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:49:23,156 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144923.json
+2026-03-15 14:49:23,156 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 14:49:23,157 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144923.json
+2026-03-15 14:49:23,157 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:49:23,158 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144923.json
+2026-03-15 14:49:23,158 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 14:49:23,158 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144923.json
+2026-03-15 14:49:23,158 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:49:23,159 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144923.json
+2026-03-15 14:49:23,159 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 14:49:23,160 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_144923.json
+2026-03-15 14:49:23,160 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:49:23,161 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_144923.json
+2026-03-15 14:49:23,162 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_144923.json
+2026-03-15 14:49:23,168 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 14:49:23,174 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 14:49:23,182 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 14:50:00,412 - facebook_integration - INFO - [OK] Facebook post created and saved: ./Facebook_Posts\facebook_post_20260315_145000.json
+2026-03-15 14:50:00,413 - facebook_integration - INFO - [OK] Facebook summary generated: ./Social_Media\facebook_summary_20260315.json
+2026-03-15 14:50:00,415 - instagram_integration - INFO - [OK] Instagram post created and saved: ./Instagram_Posts\instagram_post_20260315_145000.json
+2026-03-15 14:50:00,415 - instagram_integration - INFO - [OK] Instagram summary generated: ./Social_Media\instagram_summary_20260315.json
+2026-03-15 14:50:00,416 - twitter_integration - INFO - [OK] Twitter post created and saved: ./Twitter_Posts\twitter_post_20260315_145000.json
+2026-03-15 14:50:00,417 - twitter_integration - INFO - [OK] Twitter summary generated: ./Social_Media\twitter_summary_20260315.json
+2026-03-15 14:50:04,517 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:50:08,592 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:50:08,596 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_145008_personal_business_sync.json
+2026-03-15 14:50:08,597 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_145008_calendar_integration.json
+2026-03-15 14:50:08,597 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 14:50:08,598 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_145008.md
+2026-03-15 14:50:08,600 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_145008.json
+2026-03-15 14:50:08,601 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_145008.json
+2026-03-15 14:50:08,602 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 14:50:08,604 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_145008.md
+2026-03-15 14:50:08,604 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 14:50:08,605 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_145008.md
+2026-03-15 14:50:08,606 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 14:50:08,607 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145008.json
+2026-03-15 14:50:08,607 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 14:50:13,610 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,611 - error_recovery - INFO - Found 8 potential issues
+2026-03-15 14:50:13,611 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 14:50:13,612 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,612 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,613 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,613 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 14:50:13,614 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,614 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,615 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,615 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 14:50:13,616 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,616 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,617 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,617 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 14:50:13,618 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,618 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,619 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,619 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 14:50:13,619 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,619 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,620 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,620 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 14:50:13,621 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,621 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,621 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,621 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 14:50:13,622 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,622 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,622 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,623 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 14:50:13,623 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145013.json
+2026-03-15 14:50:13,623 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:50:13,624 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145013.json
+2026-03-15 14:50:13,625 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_145013.json
+2026-03-15 14:50:13,627 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 14:50:13,629 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 14:50:13,634 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 14:50:13,641 - ralph_wiggum_loop - INFO - [OK] Created default loop configuration: ./Config\loop_config.json
+2026-03-15 14:50:13,642 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_145013_1
+2026-03-15 14:50:13,643 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_145013_1
+2026-03-15 14:50:13,644 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_145013_1
+2026-03-15 14:50:18,647 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_145013_1 execution completed with status: created
+2026-03-15 14:50:18,649 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_145013_1 stopped
+2026-03-15 14:50:48,489 - facebook_integration - INFO - [OK] Facebook post created and saved: ./Facebook_Posts\facebook_post_20260315_145048.json
+2026-03-15 14:50:48,490 - facebook_integration - INFO - [OK] Facebook summary generated: ./Social_Media\facebook_summary_20260315.json
+2026-03-15 14:50:48,491 - instagram_integration - INFO - [OK] Instagram post created and saved: ./Instagram_Posts\instagram_post_20260315_145048.json
+2026-03-15 14:50:48,511 - instagram_integration - INFO - [OK] Instagram summary generated: ./Social_Media\instagram_summary_20260315.json
+2026-03-15 14:50:48,513 - twitter_integration - INFO - [OK] Twitter post created and saved: ./Twitter_Posts\twitter_post_20260315_145048.json
+2026-03-15 14:50:48,514 - twitter_integration - INFO - [OK] Twitter summary generated: ./Social_Media\twitter_summary_20260315.json
+2026-03-15 14:50:52,601 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:50:56,649 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 14:50:56,653 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_145056_personal_business_sync.json
+2026-03-15 14:50:56,654 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_145056_calendar_integration.json
+2026-03-15 14:50:56,654 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 14:50:56,654 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_145056.md
+2026-03-15 14:50:56,658 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_145056.json
+2026-03-15 14:50:56,659 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_145056.json
+2026-03-15 14:50:56,660 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 14:50:56,661 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_145056.md
+2026-03-15 14:50:56,661 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 14:50:56,662 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_145056.md
+2026-03-15 14:50:56,663 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 14:50:56,664 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145056.json
+2026-03-15 14:50:56,664 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 14:51:01,665 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,666 - error_recovery - INFO - Found 11 potential issues
+2026-03-15 14:51:01,666 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 14:51:01,667 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,667 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,667 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,667 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 14:51:01,668 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,668 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,677 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,677 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 14:51:01,678 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,678 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,678 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,678 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 14:51:01,679 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,679 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,679 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,679 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 14:51:01,680 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,680 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,681 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,681 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 14:51:01,681 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,681 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,682 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,682 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145013.json
+2026-03-15 14:51:01,682 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,682 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,683 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,683 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145056.json
+2026-03-15 14:51:01,683 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,683 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,684 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,684 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 14:51:01,684 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,684 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,685 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,685 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 14:51:01,685 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,685 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,686 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,686 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145013.json
+2026-03-15 14:51:01,686 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_145101.json
+2026-03-15 14:51:01,686 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 14:51:01,687 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_145101.json
+2026-03-15 14:51:01,688 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_145101.json
+2026-03-15 14:51:01,689 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 14:51:01,691 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 14:51:01,696 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 14:51:01,698 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_145101_1
+2026-03-15 14:51:01,699 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_145101_1
+2026-03-15 14:51:01,699 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_145101_1
+2026-03-15 14:51:06,702 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_145101_1 execution completed with status: created
+2026-03-15 14:51:06,703 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_145101_1 stopped

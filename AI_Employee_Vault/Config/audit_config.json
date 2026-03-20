@@ -1,0 +1,28 @@
+{
+  "log_levels": {
+    "operations": "INFO",
+    "security": "WARNING",
+    "compliance": "INFO"
+  },
+  "retention_days": {
+    "operations": 90,
+    "security": 365,
+    "compliance": 730
+  },
+  "enabled_logs": {
+    "operations": true,
+    "security": true,
+    "compliance": true
+  },
+  "audit_categories": [
+    "user_authentication",
+    "data_access",
+    "system_configuration",
+    "communication",
+    "social_media_posting",
+    "accounting_operations",
+    "scheduled_tasks",
+    "error_events",
+    "recovery_operations"
+  ]
+}

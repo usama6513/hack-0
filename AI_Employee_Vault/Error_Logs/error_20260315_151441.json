@@ -1,0 +1,10 @@
+{
+  "type": "api_errors",
+  "message": "API rate limit exceeded",
+  "context": {
+    "service": "Test",
+    "retry_after": 5
+  },
+  "timestamp": "2026-03-15T15:14:41.282525",
+  "severity": "medium"
+}

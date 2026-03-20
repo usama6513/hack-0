@@ -1,0 +1,8 @@
+{
+  "id": "gmail_watcher_0",
+  "name": "gmail_watcher",
+  "schedule": "*/5 * * * *",
+  "function": "run_gmail_watcher",
+  "args": [],
+  "kwargs": {},
+  "next_run": 

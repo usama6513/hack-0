@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "Bahar Ali Shaikh <baharshaikh93@gmail.com>",
+  "subject": "Aslamualikum sir",
+  "snippet": "kia hal he sr g kese hoap",
+  "message_id": "19cb8e6fa2c36c97",
+  "received_at": "2026-03-04T17:55:00.945368",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

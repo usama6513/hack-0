@@ -1,0 +1,149 @@
+2026-03-02 23:09:31,484 - WDM - INFO - ====== WebDriver manager ======
+2026-03-02 23:09:41,916 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:09:42,654 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:09:43,157 - WDM - INFO - There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+2026-03-02 23:09:43,157 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:09:44,443 - WDM - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-02 23:09:44,451 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-02 23:09:44,453 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-02 23:09:45,562 - WDM - INFO - Driver downloading response is 200
+2026-03-02 23:10:00,778 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:10:01,444 - WDM - INFO - Driver has been saved in cache [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-02 23:10:06,090 - __main__ - ERROR - Error in LinkedIn automation: Message: session not created
+from unknown error: cannot create default profile directory; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xfb7dd3
+	0xfb7e14
+	0xdc1db0
+	0xdfb4f6
+	0xdf5bba
+	0xdf2460
+	0xe3aa9f
+	0xe3a2b7
+	0xe2e7d6
+	0xe00049
+	0xe00e04
+	0x1216924
+	0x1211bf7
+	0x122f5a0
+	0xfd0f58
+	0xfd891d
+	0xfc0648
+	0xfc0812
+	0xfaa21a
+	0x75d55d49
+	0x77e3d83b
+	0x77e3d7c1
+
+2026-03-02 23:11:51,847 - WDM - INFO - ====== WebDriver manager ======
+2026-03-02 23:11:59,639 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:12:00,089 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:12:01,936 - WDM - INFO - Driver [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-02 23:12:03,543 - __main__ - INFO - Chrome driver initialized
+2026-03-02 23:12:39,163 - __main__ - INFO - Successfully logged in to LinkedIn
+2026-03-02 23:12:57,227 - __main__ - ERROR - Error posting to LinkedIn: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xfb7dd3
+	0xfb7e14
+	0xdc1db0
+	0xe0c20a
+	0xe0c4ab
+	0xe4de32
+	0xe2ea84
+	0xe4b621
+	0xe2e7d6
+	0xe00049
+	0xe00e04
+	0x1216924
+	0x1211bf7
+	0x122f5a0
+	0xfd0f58
+	0xfd891d
+	0xfc0648
+	0xfc0812
+	0xfaa21a
+	0x75d55d49
+	0x77e3d83b
+	0x77e3d7c1
+
+2026-03-02 23:14:59,574 - WDM - INFO - ====== WebDriver manager ======
+2026-03-02 23:15:08,198 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:15:08,766 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-02 23:15:09,256 - WDM - INFO - Driver [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-02 23:15:10,755 - __main__ - INFO - Chrome driver initialized
+2026-03-02 23:15:40,832 - __main__ - INFO - Successfully logged in to LinkedIn
+2026-03-02 23:17:22,291 - __main__ - INFO - Successfully posted to LinkedIn
+2026-03-02 23:17:22,294 - __main__ - INFO - LinkedIn post created and saved: ./Posted\posted_20260302_231540.json
+2026-03-04 18:12:35,819 - WDM - INFO - ====== WebDriver manager ======
+2026-03-04 18:12:41,693 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:12:42,047 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:12:42,338 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:12:43,023 - WDM - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-04 18:12:43,029 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-04 18:12:43,030 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-04 18:12:43,465 - WDM - INFO - Driver downloading response is 200
+2026-03-04 18:12:57,835 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:12:58,237 - WDM - INFO - Driver has been saved in cache [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-04 18:13:00,587 - __main__ - INFO - Chrome driver initialized
+2026-03-04 18:14:09,663 - __main__ - INFO - Successfully logged in to LinkedIn
+2026-03-04 18:15:35,393 - __main__ - INFO - Successfully posted to LinkedIn
+2026-03-04 18:15:35,394 - __main__ - INFO - LinkedIn post created and saved: ./Posted\posted_20260304_181409.json
+2026-03-04 18:21:47,860 - WDM - INFO - ====== WebDriver manager ======
+2026-03-04 18:21:54,043 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:21:54,476 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:21:54,759 - WDM - INFO - Driver [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-04 18:21:56,433 - __main__ - INFO - Chrome driver initialized
+2026-03-04 18:22:34,093 - __main__ - INFO - Successfully logged in to LinkedIn
+2026-03-04 18:23:40,518 - __main__ - INFO - Successfully posted to LinkedIn
+2026-03-04 18:23:40,520 - __main__ - INFO - LinkedIn post created and saved: ./Posted\posted_20260304_182234.json
+2026-03-04 18:27:22,641 - WDM - INFO - ====== WebDriver manager ======
+2026-03-04 18:27:30,849 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:27:31,256 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:27:31,659 - WDM - INFO - Driver [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-04 18:27:33,132 - __main__ - INFO - Chrome driver initialized
+2026-03-04 18:28:22,979 - __main__ - INFO - Successfully logged in to LinkedIn
+2026-03-04 18:29:45,159 - __main__ - INFO - Successfully posted to LinkedIn
+2026-03-04 18:29:45,161 - __main__ - INFO - LinkedIn post created and saved: ./Posted\posted_20260304_182822.json
+2026-03-04 18:31:28,397 - WDM - INFO - ====== WebDriver manager ======
+2026-03-04 18:31:34,703 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:31:36,133 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:31:36,375 - WDM - INFO - Driver [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-04 18:31:37,546 - __main__ - INFO - Chrome driver initialized
+2026-03-04 18:33:48,614 - __main__ - ERROR - Error during LinkedIn login: HTTPConnectionPool(host='localhost', port=54608): Read timed out. (read timeout=120)
+2026-03-04 18:35:48,639 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=54608): Read timed out. (read timeout=120)")': /session/55a17f5a3812cdec1ede61c4b935775a
+2026-03-04 18:45:21,454 - WDM - INFO - ====== WebDriver manager ======
+2026-03-04 18:45:28,628 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:45:28,933 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-04 18:45:29,195 - WDM - INFO - Driver [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-04 18:45:30,517 - __main__ - INFO - Chrome driver initialized
+2026-03-04 18:45:57,532 - __main__ - INFO - Successfully logged in to LinkedIn
+2026-03-04 18:47:13,785 - __main__ - INFO - Successfully posted to LinkedIn
+2026-03-04 18:47:13,787 - __main__ - INFO - LinkedIn post created and saved: ./Posted\posted_20260304_184557.json
+2026-03-08 16:48:11,600 - WDM - INFO - ====== WebDriver manager ======
+2026-03-08 16:48:19,106 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-08 16:48:19,644 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-08 16:48:19,950 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-08 16:48:20,656 - WDM - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-08 16:48:20,662 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-08 16:48:20,663 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-08 16:48:21,077 - WDM - INFO - Driver downloading response is 200
+2026-03-08 16:48:39,689 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-08 16:48:40,115 - WDM - INFO - Driver has been saved in cache [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-08 16:48:43,230 - __main__ - INFO - Chrome driver initialized
+2026-03-08 16:50:12,842 - __main__ - INFO - Successfully logged in to LinkedIn
+2026-03-08 16:51:05,993 - __main__ - INFO - Successfully posted to LinkedIn
+2026-03-08 16:51:05,996 - __main__ - INFO - LinkedIn post created and saved: ./Posted\posted_20260308_165012.json
+2026-03-11 06:10:47,871 - WDM - INFO - ====== WebDriver manager ======
+2026-03-11 06:10:54,010 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 06:10:54,459 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 06:10:55,959 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 06:10:56,871 - WDM - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-11 06:10:56,878 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 06:10:56,879 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 06:10:57,303 - WDM - INFO - Driver downloading response is 200
+2026-03-11 06:11:11,695 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 06:11:12,078 - WDM - INFO - Driver has been saved in cache [C:\Users\PMLS\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-11 06:11:14,337 - __main__ - INFO - Chrome driver initialized
+2026-03-11 06:11:25,338 - __main__ - ERROR - LinkedIn login failed

@@ -1,0 +1,11 @@
+{
+  "report_timestamp": "2026-03-15T15:06:24.979720",
+  "total_errors": 17,
+  "recovery_attempts": 6,
+  "error_types": {
+    "api_errors": 6,
+    "pending_recovery": 6,
+    "unknown": 5
+  },
+  "system_status": "operational"
+}

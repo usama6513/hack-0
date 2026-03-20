@@ -1,0 +1,10 @@
+{
+  "error_log": "./Error_Logs\\error_20260315_151446.json",
+  "recovery_method": "default",
+  "recovery_result": {
+    "action": "default_recovery",
+    "result": "recovery_attempted",
+    "recovery_successful": false
+  },
+  "timestamp": "2026-03-15T15:14:46.318449"
+}

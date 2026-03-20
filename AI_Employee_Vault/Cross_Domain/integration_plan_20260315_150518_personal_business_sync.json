@@ -1,0 +1,16 @@
+{
+  "opportunity": {
+    "type": "personal_business_sync",
+    "description": "Sync personal contacts with business CRM",
+    "action": "Export personal contacts to business domain",
+    "priority": "medium"
+  },
+  "created_at": "2026-03-15T15:05:18.617784",
+  "status": "planned",
+  "next_steps": [
+    "Review opportunity details",
+    "Create specific action items",
+    "Assign to appropriate system",
+    "Monitor completion"
+  ]
+}

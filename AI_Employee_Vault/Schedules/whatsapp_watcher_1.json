@@ -1,0 +1,8 @@
+{
+  "id": "whatsapp_watcher_1",
+  "name": "whatsapp_watcher",
+  "schedule": "*/2 * * * *",
+  "function": "run_whatsapp_watcher",
+  "args": [],
+  "kwargs": {},
+  "next_run": 

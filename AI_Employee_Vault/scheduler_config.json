@@ -1,0 +1,73 @@
+{
+  "tasks": {
+    "facebook_auto_post": {
+      "enabled": true,
+      "schedule": "0 9 * * 1-5",
+      "action": "facebook_api_integration.post_to_facebook",
+      "params": {
+        "message": "Daily business insight and updates",
+        "topic": "business automation"
+      }
+    },
+    "instagram_auto_post": {
+      "enabled": true,
+      "schedule": "0 12 * * 1-5",
+      "action": "instagram_api_integration.post_to_instagram",
+      "params": {
+        "caption": "Daily business and tech inspiration",
+        "topic": "innovation"
+      }
+    },
+    "twitter_auto_post": {
+      "enabled": true,
+      "schedule": "0 15 * * 1-5",
+      "action": "twitter_api_integration.post_tweet",
+      "params": {
+        "text": "Daily tech and business insights",
+        "topic": "AI automation"
+      }
+    },
+    "odoo_daily_sync": {
+      "enabled": true,
+      "schedule": "0 6 * * *",
+      "action": "odoo_integration.sync_data",
+      "params": {
+        "data_type": "daily_operations",
+        "direction": "from_external"
+      }
+    },
+    "odoo_weekly_report": {
+      "enabled": true,
+      "schedule": "0 6 * * 1",
+      "action": "odoo_integration.get_sales_data",
+      "params": {
+        "days": 7
+      }
+    },
+    "social_media_monitoring": {
+      "enabled": true,
+      "schedule": "*/30 * * * *",
+      "action": "facebook_api_integration.get_page_posts",
+      "params": {
+        "limit": 10
+      }
+    },
+    "auto_commenting": {
+      "enabled": true,
+      "schedule": "0 10,16 * * 1-5",
+      "action": "facebook_api_integration.comment_on_post",
+      "params": {
+        "comment": "Thanks for sharing! This is valuable for our community.",
+        "auto_select_post": true
+      }
+    }
+  },
+  "global_settings": {
+    "timezone": "UTC",
+    "max_concurrent_tasks": 3,
+    "task_timeout": 300,
+    "retry_failed_tasks": true,
+    "max_retries": 3,
+    "logging_enabled": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "modules": {
+    "sale": true,
+    "account": true,
+    "crm": true,
+    "hr": true
+  },
+  "sync_enabled": true,
+  "auto_create_customers": true,
+  "auto_create_products": true
+}

@@ -1,0 +1,49 @@
+2026-03-02 21:46:44,701 - __main__ - INFO - Created default config at ./silver_tier_config.json
+2026-03-02 21:46:56,592 - __main__ - INFO - Running single check of all enabled skills...
+2026-03-02 21:46:56,592 - __main__ - INFO - Single check completed
+2026-03-02 21:48:21,410 - __main__ - ERROR - LinkedIn Poster not available
+2026-03-02 21:49:31,141 - __main__ - ERROR - LinkedIn Poster not available
+2026-03-02 21:50:46,741 - __main__ - INFO - Initializing Silver Tier skills...
+2026-03-02 21:50:47,274 - linkedin_poster - INFO - Created LinkedIn post draft: linkedin_post_draft_20260302_215047.md
+2026-03-02 21:55:40,325 - __main__ - INFO - Initializing Silver Tier skills...
+2026-03-02 21:55:40,736 - __main__ - INFO - [OK] Gmail Watcher initialized
+2026-03-02 21:55:40,767 - __main__ - INFO - [OK] WhatsApp Watcher initialized
+2026-03-02 21:55:40,793 - __main__ - INFO - [OK] LinkedIn Watcher initialized
+2026-03-02 21:55:40,794 - __main__ - INFO - [OK] LinkedIn Poster initialized
+2026-03-02 21:55:40,796 - __main__ - INFO - [OK] Email Sender initialized
+2026-03-02 21:55:40,805 - __main__ - INFO - [OK] Approval Workflow initialized
+2026-03-02 21:55:40,813 - __main__ - INFO - [OK] Scheduler initialized
+2026-03-02 21:55:40,814 - __main__ - INFO - [OK] Plan Generator initialized
+2026-03-02 21:55:40,815 - linkedin_poster - INFO - Created LinkedIn post draft: linkedin_post_draft_20260302_215540.md
+2026-03-02 21:55:52,266 - __main__ - INFO - Initializing Silver Tier skills...
+2026-03-02 21:55:52,643 - __main__ - INFO - [OK] Gmail Watcher initialized
+2026-03-02 21:55:52,671 - __main__ - INFO - [OK] WhatsApp Watcher initialized
+2026-03-02 21:55:52,695 - __main__ - INFO - [OK] LinkedIn Watcher initialized
+2026-03-02 21:55:52,696 - __main__ - INFO - [OK] LinkedIn Poster initialized
+2026-03-02 21:55:52,698 - __main__ - INFO - [OK] Email Sender initialized
+2026-03-02 21:55:52,706 - __main__ - INFO - [OK] Approval Workflow initialized
+2026-03-02 21:55:52,715 - __main__ - INFO - [OK] Scheduler initialized
+2026-03-02 21:55:52,716 - __main__ - INFO - [OK] Plan Generator initialized
+2026-03-02 21:55:52,717 - email_sender - INFO - Created email approval request: APPROVAL_EMAIL_20260302_215552.md
+2026-03-02 21:55:52,717 - email_sender - INFO - Email requires approval. Request created: ./Needs_Action\APPROVAL_EMAIL_20260302_215552.md
+2026-03-02 21:56:18,572 - __main__ - INFO - Initializing Silver Tier skills...
+2026-03-02 21:56:18,987 - __main__ - INFO - [OK] Gmail Watcher initialized
+2026-03-02 21:56:19,016 - __main__ - INFO - [OK] WhatsApp Watcher initialized
+2026-03-02 21:56:19,040 - __main__ - INFO - [OK] LinkedIn Watcher initialized
+2026-03-02 21:56:19,041 - __main__ - INFO - [OK] LinkedIn Poster initialized
+2026-03-02 21:56:19,043 - __main__ - INFO - [OK] Email Sender initialized
+2026-03-02 21:56:19,052 - __main__ - INFO - [OK] Approval Workflow initialized
+2026-03-02 21:56:19,060 - __main__ - INFO - [OK] Scheduler initialized
+2026-03-02 21:56:19,061 - __main__ - INFO - [OK] Plan Generator initialized
+2026-03-02 21:56:19,061 - __main__ - INFO - Running plan_generator.create_plan()
+2026-03-02 21:56:19,062 - plan_generator - INFO - Created plan: PLAN_20260302_215619.md
+2026-03-02 21:56:19,062 - __main__ - INFO - [OK] plan_generator.create_plan() completed successfully
+2026-03-02 21:56:29,272 - __main__ - INFO - Initializing Silver Tier skills...
+2026-03-02 21:56:29,687 - __main__ - INFO - [OK] Gmail Watcher initialized
+2026-03-02 21:56:29,719 - __main__ - INFO - [OK] WhatsApp Watcher initialized
+2026-03-02 21:56:29,746 - __main__ - INFO - [OK] LinkedIn Watcher initialized
+2026-03-02 21:56:29,747 - __main__ - INFO - [OK] LinkedIn Poster initialized
+2026-03-02 21:56:29,749 - __main__ - INFO - [OK] Email Sender initialized
+2026-03-02 21:56:29,757 - __main__ - INFO - [OK] Approval Workflow initialized
+2026-03-02 21:56:29,766 - __main__ - INFO - [OK] Scheduler initialized
+2026-03-02 21:56:29,768 - __main__ - INFO - [OK] Plan Generator initialized

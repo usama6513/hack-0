@@ -1,0 +1,185 @@
+2026-03-02 22:22:38,212 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 22:22:38,213 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-02 22:23:36,091 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 22:23:36,093 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-02 22:25:00,340 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 22:25:00,341 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-02 23:19:14,195 - __main__ - INFO - Starting Gmail authentication flow...
+2026-03-02 23:21:32,591 - google_auth_oauthlib.flow - INFO - "GET /?error=access_denied&state=JfvraCgvuEVIQrNR7uLPUrCHEnIAa8 HTTP/1.1" 200 65
+2026-03-02 23:22:45,157 - __main__ - INFO - Starting Gmail authentication flow...
+2026-03-02 23:24:14,336 - google_auth_oauthlib.flow - INFO - "GET /?error=access_denied&state=fcNqlN1Si0pnPefqXs7lTHOAOLJVtP HTTP/1.1" 200 65
+2026-03-02 23:24:45,753 - __main__ - INFO - Starting Gmail authentication flow...
+2026-03-02 23:26:01,933 - google_auth_oauthlib.flow - INFO - "GET /?state=kB7TFcJCmQYKCP8Io2oYrS1z75Hkd9&iss=https://accounts.google.com&code=4/0AfrIepCmCQ9Sk2o6jZZpFO41aoZseRqAZbFJHkYDi_CQ_Bl3fHRM1U25nzHD9ZgFT_sXmA&scope=https://www.googleapis.com/auth/gmail.compose%20https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.modify HTTP/1.1" 200 65
+2026-03-02 23:26:03,124 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 23:26:03,130 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-02 23:26:27,968 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 23:26:27,969 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-02 23:36:34,113 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 23:36:34,115 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-02 23:36:35,503 - __main__ - INFO - Email sent successfully. Message ID: 19cafd66050ce7b7
+2026-03-04 17:42:38,885 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 17:42:38,888 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-04 17:42:38,889 - __main__ - INFO - Starting Gmail inbox monitoring (interval: 300 seconds)
+2026-03-04 17:42:38,889 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 17:42:39,759 - __main__ - INFO - Found 10 unread emails
+2026-03-04 17:42:40,190 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174240_19cb4360.json
+2026-03-04 17:42:40,590 - __main__ - INFO - Marked email 19cb43609ec7b518 as read
+2026-03-04 17:42:41,132 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174241_19cb200a.json
+2026-03-04 17:42:41,541 - __main__ - INFO - Marked email 19cb200a043f72fd as read
+2026-03-04 17:42:41,947 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174241_19cb10ab.json
+2026-03-04 17:42:42,358 - __main__ - INFO - Marked email 19cb10abfc943bbd as read
+2026-03-04 17:42:42,877 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174242_19cafd66.json
+2026-03-04 17:42:43,279 - __main__ - INFO - Marked email 19cafd66050ce7b7 as read
+2026-03-04 17:42:43,591 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174243_19cafce7.json
+2026-03-04 17:42:43,991 - __main__ - INFO - Marked email 19cafce7f93f4a11 as read
+2026-03-04 17:42:44,306 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174244_19cafc01.json
+2026-03-04 17:42:44,708 - __main__ - INFO - Marked email 19cafc01c4442d99 as read
+2026-03-04 17:42:45,052 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174245_19cafa5b.json
+2026-03-04 17:42:45,460 - __main__ - INFO - Marked email 19cafa5b4dd4282b as read
+2026-03-04 17:42:45,770 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174245_19cafa59.json
+2026-03-04 17:42:46,172 - __main__ - INFO - Marked email 19cafa596c8279cd as read
+2026-03-04 17:42:46,502 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174246_19caf9f6.json
+2026-03-04 17:42:46,936 - __main__ - INFO - Marked email 19caf9f66886534b as read
+2026-03-04 17:42:47,318 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174247_19caf823.json
+2026-03-04 17:42:47,724 - __main__ - INFO - Marked email 19caf823ac69f5f2 as read
+2026-03-04 17:42:47,724 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 17:43:48,624 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 17:43:48,626 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-04 17:43:49,812 - __main__ - INFO - Email sent successfully. Message ID: 19cb8e00eab7fc1f
+2026-03-04 17:45:05,796 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 17:45:05,797 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-04 17:45:06,818 - __main__ - INFO - Email sent successfully. Message ID: 19cb8e13c16e07a0
+2026-03-04 17:47:47,725 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 17:47:47,763 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 17:48:47,766 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 17:48:49,025 - __main__ - INFO - Found 10 unread emails
+2026-03-04 17:48:49,390 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174849_19cb8e39.json
+2026-03-04 17:48:49,844 - __main__ - INFO - Marked email 19cb8e399443d044 as read
+2026-03-04 17:48:50,257 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174850_19cb8e14.json
+2026-03-04 17:48:51,176 - __main__ - INFO - Marked email 19cb8e144aec6201 as read
+2026-03-04 17:48:51,691 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174851_19cb8e01.json
+2026-03-04 17:48:52,288 - __main__ - INFO - Marked email 19cb8e015d83b218 as read
+2026-03-04 17:48:52,825 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174852_19caf002.json
+2026-03-04 17:48:53,308 - __main__ - INFO - Marked email 19caf0025ed1f149 as read
+2026-03-04 17:48:53,660 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174853_19cae918.json
+2026-03-04 17:48:54,464 - __main__ - INFO - Marked email 19cae918cf0b5d27 as read
+2026-03-04 17:48:54,868 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174854_19cad47f.json
+2026-03-04 17:48:55,287 - __main__ - INFO - Marked email 19cad47f14827e99 as read
+2026-03-04 17:48:55,703 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174855_19cacda2.json
+2026-03-04 17:48:56,192 - __main__ - INFO - Marked email 19cacda2077ebbc2 as read
+2026-03-04 17:48:56,586 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174856_19ca7b3c.json
+2026-03-04 17:48:56,997 - __main__ - INFO - Marked email 19ca7b3c17f142d6 as read
+2026-03-04 17:48:57,325 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174857_19c9ffec.json
+2026-03-04 17:48:57,798 - __main__ - INFO - Marked email 19c9ffec0f02b709 as read
+2026-03-04 17:48:58,247 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_174858_19c9b41c.json
+2026-03-04 17:48:58,653 - __main__ - INFO - Marked email 19c9b41ca80ab5fc as read
+2026-03-04 17:48:58,654 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 17:50:07,802 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 17:50:07,806 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-04 17:51:15,114 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 17:51:15,116 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-04 17:51:31,862 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 17:51:31,863 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-04 17:53:41,674 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-04 17:53:41,676 - __main__ - INFO - Successfully authenticated with Gmail API
+2026-03-04 17:53:42,709 - __main__ - INFO - Email sent successfully. Message ID: 19cb8e91d00074d5
+2026-03-04 17:53:58,655 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 17:53:58,691 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 17:54:58,693 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 17:54:59,614 - __main__ - INFO - Found 10 unread emails
+2026-03-04 17:54:59,957 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175459_19cb8e92.json
+2026-03-04 17:55:00,541 - __main__ - INFO - Marked email 19cb8e92188b4163 as read
+2026-03-04 17:55:00,946 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175500_19cb8e6f.json
+2026-03-04 17:55:01,557 - __main__ - INFO - Marked email 19cb8e6fa2c36c97 as read
+2026-03-04 17:55:02,177 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175502_19c9af93.json
+2026-03-04 17:55:02,610 - __main__ - INFO - Marked email 19c9af93dc9aa093 as read
+2026-03-04 17:55:02,995 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175502_19c9ad57.json
+2026-03-04 17:55:03,605 - __main__ - INFO - Marked email 19c9ad579cfc5e6a as read
+2026-03-04 17:55:04,019 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175504_19c9acc2.json
+2026-03-04 17:55:04,629 - __main__ - INFO - Marked email 19c9acc2f47ff256 as read
+2026-03-04 17:55:05,043 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175505_19c998a5.json
+2026-03-04 17:55:05,653 - __main__ - INFO - Marked email 19c998a52b6105a5 as read
+2026-03-04 17:55:06,066 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175506_19c98ae8.json
+2026-03-04 17:55:06,628 - __main__ - INFO - Marked email 19c98ae813ff5441 as read
+2026-03-04 17:55:07,088 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175507_19c97b0c.json
+2026-03-04 17:55:07,701 - __main__ - INFO - Marked email 19c97b0c5759e7fe as read
+2026-03-04 17:55:08,126 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175508_19c97b0c.json
+2026-03-04 17:55:08,724 - __main__ - INFO - Marked email 19c97b0c25c77812 as read
+2026-03-04 17:55:09,346 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_175509_19c9779e.json
+2026-03-04 17:55:09,760 - __main__ - INFO - Marked email 19c9779e4df9660b as read
+2026-03-04 17:55:09,761 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:00:09,762 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:00:10,438 - __main__ - INFO - Found 2 unread emails
+2026-03-04 18:00:10,834 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_180010_19c371ab.json
+2026-03-04 18:00:11,423 - __main__ - INFO - Marked email 19c371abfa2806fa as read
+2026-03-04 18:00:11,796 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_180011_19b01585.json
+2026-03-04 18:00:12,223 - __main__ - INFO - Marked email 19b015859069a95c as read
+2026-03-04 18:00:12,223 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:05:12,224 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:05:12,267 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:06:12,268 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:06:13,753 - __main__ - INFO - No new unread emails
+2026-03-04 18:06:13,753 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:11:13,755 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:11:13,799 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:12:13,799 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:12:14,575 - __main__ - INFO - No new unread emails
+2026-03-04 18:12:14,575 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:17:14,576 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:17:14,615 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:18:14,617 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:18:15,332 - __main__ - INFO - Found 1 unread emails
+2026-03-04 18:18:15,722 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_181815_19cb8faf.json
+2026-03-04 18:18:16,358 - __main__ - INFO - Marked email 19cb8faf6ba84210 as read
+2026-03-04 18:18:16,358 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:23:16,358 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:23:16,393 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:24:16,394 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:24:17,224 - __main__ - INFO - No new unread emails
+2026-03-04 18:24:17,224 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:29:17,225 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:29:17,267 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:30:17,269 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:30:18,127 - __main__ - INFO - No new unread emails
+2026-03-04 18:30:18,128 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:35:18,129 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:35:18,159 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:36:18,161 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:36:18,755 - __main__ - INFO - Found 1 unread emails
+2026-03-04 18:36:19,194 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_183619_19cb90c0.json
+2026-03-04 18:36:19,797 - __main__ - INFO - Marked email 19cb90c046e22659 as read
+2026-03-04 18:36:19,798 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:41:19,800 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:41:20,671 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:43:45,915 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:43:47,113 - __main__ - INFO - No new unread emails
+2026-03-04 18:43:47,116 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:48:47,134 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:48:47,175 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:49:47,177 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:49:47,187 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:50:47,188 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:50:48,013 - __main__ - INFO - Found 1 unread emails
+2026-03-04 18:50:48,439 - __main__ - INFO - Created action file for email: GMAIL_LOW_20260304_185048_19cb918b.json
+2026-03-04 18:50:48,929 - __main__ - INFO - Marked email 19cb918b55c3a8a4 as read
+2026-03-04 18:50:48,930 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 18:55:48,931 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:55:48,975 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 18:56:48,976 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 18:56:50,248 - __main__ - INFO - No new unread emails
+2026-03-04 18:56:50,249 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 19:01:50,265 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 19:01:50,444 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 19:02:50,445 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 19:02:51,175 - __main__ - INFO - No new unread emails
+2026-03-04 19:02:51,176 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 19:07:51,183 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 19:07:51,234 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-04 19:08:51,235 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 19:08:51,984 - __main__ - INFO - No new unread emails
+2026-03-04 19:08:51,985 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 19:13:51,985 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 19:13:52,913 - __main__ - INFO - No new unread emails
+2026-03-04 19:13:52,914 - __main__ - INFO - Check complete. Sleeping for 300 seconds...
+2026-03-04 19:18:52,918 - __main__ - INFO - Checking Gmail for new emails...
+2026-03-04 19:18:52,965 - __main__ - ERROR - Error in Gmail monitoring: [WinError 10054] An existing connection was forcibly closed by the remote host

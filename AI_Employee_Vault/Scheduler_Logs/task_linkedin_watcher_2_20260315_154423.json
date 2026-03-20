@@ -1,0 +1,10 @@
+{
+  "job_id": "linkedin_watcher_2",
+  "job_name": "linkedin_watcher",
+  "timestamp": "2026-03-15T15:44:23.438639",
+  "success": true,
+  "duration_seconds": 81.874065,
+  "result": "None",
+  "run_count": 3,
+  "error_count": 0
+}

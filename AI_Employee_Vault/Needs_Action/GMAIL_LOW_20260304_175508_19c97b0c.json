@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "Google <no-reply@accounts.google.com>",
+  "subject": "Your Google Account was recovered successfully",
+  "snippet": "Account recovered successfully usamaaryan981@gmail.com Welcome back to your account If you suspect you were locked out of your account because of changes made by someone else, you should review and",
+  "message_id": "19c97b0c25c77812",
+  "received_at": "2026-03-04T17:55:08.125501",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

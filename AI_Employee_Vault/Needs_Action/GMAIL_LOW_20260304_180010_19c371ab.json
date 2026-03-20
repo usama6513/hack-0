@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "Google Play <googleplay-noreply@google.com>",
+  "subject": "Updates to how privacy settings work on Play",
+  "snippet": "Hello Usama, We&#39;ve updated settings that manage personalisation and activity history on Play. You&#39;ll have dedicated controls for personalisation on Play and for saving activity in your Google",
+  "message_id": "19c371abfa2806fa",
+  "received_at": "2026-03-04T18:00:10.833953",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

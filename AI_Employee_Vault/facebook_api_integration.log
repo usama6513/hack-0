@@ -1,0 +1,693 @@
+2026-03-15 15:05:14,486 - facebook_api_integration - ERROR - [ERROR] Facebook credentials not configured properly
+2026-03-15 15:05:14,492 - instagram_api_integration - ERROR - [ERROR] Instagram credentials not configured properly
+2026-03-15 15:05:14,497 - twitter_api_integration - ERROR - [ERROR] Twitter bearer token not configured
+2026-03-15 15:05:18,606 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 15:05:18,618 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_150518_personal_business_sync.json
+2026-03-15 15:05:18,619 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_150518_calendar_integration.json
+2026-03-15 15:05:18,620 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 15:05:18,620 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_150518.md
+2026-03-15 15:05:18,623 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_150518.json
+2026-03-15 15:05:18,624 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_150518.json
+2026-03-15 15:05:18,624 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 15:05:18,627 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_150518.md
+2026-03-15 15:05:18,627 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 15:05:18,628 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_150518.md
+2026-03-15 15:05:18,629 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 15:05:18,630 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150518.json
+2026-03-15 15:05:18,630 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 15:05:23,633 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,633 - error_recovery - INFO - Found 14 potential issues
+2026-03-15 15:05:23,633 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 15:05:23,634 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,635 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,635 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,635 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 15:05:23,636 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,636 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,636 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,636 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 15:05:23,637 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,637 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,637 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,637 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 15:05:23,638 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,638 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,638 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,638 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 15:05:23,639 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,640 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,640 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,640 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 15:05:23,641 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,641 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,641 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,642 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145013.json
+2026-03-15 15:05:23,642 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,642 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,643 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,643 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145056.json
+2026-03-15 15:05:23,643 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,643 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,644 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,644 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145101.json
+2026-03-15 15:05:23,644 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,645 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,646 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,646 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150518.json
+2026-03-15 15:05:23,646 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,646 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,647 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,647 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 15:05:23,648 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,648 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,648 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,648 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 15:05:23,649 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,649 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,649 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,649 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145013.json
+2026-03-15 15:05:23,650 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,650 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,651 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,651 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145101.json
+2026-03-15 15:05:23,651 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150523.json
+2026-03-15 15:05:23,651 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:05:23,652 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150523.json
+2026-03-15 15:05:23,654 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_150523.json
+2026-03-15 15:05:23,655 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 15:05:23,656 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 15:05:23,657 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 15:05:23,659 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_150523_1
+2026-03-15 15:05:23,661 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_150523_1
+2026-03-15 15:05:23,661 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_150523_1
+2026-03-15 15:05:28,665 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_150523_1 execution completed with status: created
+2026-03-15 15:05:28,668 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_150523_1 stopped
+2026-03-15 15:06:15,855 - facebook_api_integration - ERROR - [ERROR] Facebook credentials not configured properly
+2026-03-15 15:06:15,856 - instagram_api_integration - ERROR - [ERROR] Instagram credentials not configured properly
+2026-03-15 15:06:15,857 - twitter_api_integration - ERROR - [ERROR] Twitter bearer token not configured
+2026-03-15 15:06:19,929 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 15:06:19,941 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_150619_personal_business_sync.json
+2026-03-15 15:06:19,942 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_150619_calendar_integration.json
+2026-03-15 15:06:19,942 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 15:06:19,943 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_150619.md
+2026-03-15 15:06:19,945 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_150619.json
+2026-03-15 15:06:19,946 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_150619.json
+2026-03-15 15:06:19,947 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 15:06:19,948 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_150619.md
+2026-03-15 15:06:19,948 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 15:06:19,949 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_150619.md
+2026-03-15 15:06:19,950 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 15:06:19,951 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150619.json
+2026-03-15 15:06:19,951 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 15:06:24,953 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,954 - error_recovery - INFO - Found 17 potential issues
+2026-03-15 15:06:24,954 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 15:06:24,956 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,956 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,957 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,957 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 15:06:24,958 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,958 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,959 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,959 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 15:06:24,960 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,960 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,961 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,961 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 15:06:24,962 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,962 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,963 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,963 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 15:06:24,964 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,964 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,964 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,964 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 15:06:24,965 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,965 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,965 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,965 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145013.json
+2026-03-15 15:06:24,966 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,966 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,966 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,966 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145056.json
+2026-03-15 15:06:24,967 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,967 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,968 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,968 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145101.json
+2026-03-15 15:06:24,968 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,968 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,969 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,969 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150518.json
+2026-03-15 15:06:24,969 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,969 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,970 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,970 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150523.json
+2026-03-15 15:06:24,971 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,971 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,972 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,972 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150619.json
+2026-03-15 15:06:24,972 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,972 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,973 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,973 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 15:06:24,973 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,973 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,974 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,974 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 15:06:24,975 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,975 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,976 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,976 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145013.json
+2026-03-15 15:06:24,976 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,976 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,977 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,977 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145101.json
+2026-03-15 15:06:24,977 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,977 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,978 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,978 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150523.json
+2026-03-15 15:06:24,979 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_150624.json
+2026-03-15 15:06:24,979 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:06:24,979 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_150624.json
+2026-03-15 15:06:24,980 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_150624.json
+2026-03-15 15:06:24,982 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 15:06:24,983 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 15:06:24,984 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 15:06:24,986 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_150624_1
+2026-03-15 15:06:24,987 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_150624_1
+2026-03-15 15:06:24,987 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_150624_1
+2026-03-15 15:06:29,989 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_150624_1 execution completed with status: created
+2026-03-15 15:06:29,990 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_150624_1 stopped
+2026-03-15 15:12:49,433 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_151249_personal_business_sync.json
+2026-03-15 15:12:49,434 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_151249_calendar_integration.json
+2026-03-15 15:12:49,434 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 15:12:49,435 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_151249.md
+2026-03-15 15:12:49,437 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_151249.json
+2026-03-15 15:12:49,446 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_151249.json
+2026-03-15 15:12:49,446 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 15:12:49,449 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_151249.md
+2026-03-15 15:12:49,449 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 15:12:49,449 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_151249.md
+2026-03-15 15:12:49,450 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 15:12:49,451 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151249.json
+2026-03-15 15:12:49,451 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 15:12:54,455 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,455 - error_recovery - INFO - Found 20 potential issues
+2026-03-15 15:12:54,456 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 15:12:54,458 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,459 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,460 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,460 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 15:12:54,461 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,461 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,462 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,463 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 15:12:54,463 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,463 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,464 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,464 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 15:12:54,465 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,465 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,466 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,466 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 15:12:54,466 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,466 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,467 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,467 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 15:12:54,468 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,468 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,468 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,469 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145013.json
+2026-03-15 15:12:54,469 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,469 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,470 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,470 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145056.json
+2026-03-15 15:12:54,470 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,470 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,471 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,471 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145101.json
+2026-03-15 15:12:54,471 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,471 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,472 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,472 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150518.json
+2026-03-15 15:12:54,472 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,472 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,473 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,473 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150523.json
+2026-03-15 15:12:54,474 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,474 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,474 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,474 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150619.json
+2026-03-15 15:12:54,475 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,475 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,476 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,476 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150624.json
+2026-03-15 15:12:54,476 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,476 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,477 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,477 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151249.json
+2026-03-15 15:12:54,478 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,478 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,478 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,478 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 15:12:54,479 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,479 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,479 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,480 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 15:12:54,480 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,480 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,481 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,481 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145013.json
+2026-03-15 15:12:54,482 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,482 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,482 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,482 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145101.json
+2026-03-15 15:12:54,483 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,483 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,483 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,483 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150523.json
+2026-03-15 15:12:54,484 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,484 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,485 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,485 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150624.json
+2026-03-15 15:12:54,485 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151254.json
+2026-03-15 15:12:54,485 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:12:54,486 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151254.json
+2026-03-15 15:12:54,487 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_151254.json
+2026-03-15 15:12:54,490 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 15:12:54,491 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 15:12:54,492 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 15:12:54,494 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_151254_1
+2026-03-15 15:12:54,495 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_151254_1
+2026-03-15 15:12:54,495 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_151254_1
+2026-03-15 15:12:59,498 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_151254_1 execution completed with status: created
+2026-03-15 15:12:59,500 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_151254_1 stopped
+2026-03-15 15:13:30,113 - facebook_api_integration - ERROR - [ERROR] Facebook API request failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_FACEBOOK_PAGE_ID/posts?fields=id%2Cmessage%2Ccreated_time%2Ccomments%2Clikes%2Cshares&limit=3&access_token=YOUR_FACEBOOK_PAGE_ACCESS_TOKEN
+2026-03-15 15:13:30,115 - facebook_api_integration - ERROR - [ERROR] Failed to get Facebook page posts: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_FACEBOOK_PAGE_ID/posts?fields=id%2Cmessage%2Ccreated_time%2Ccomments%2Clikes%2Cshares&limit=3&access_token=YOUR_FACEBOOK_PAGE_ACCESS_TOKEN
+2026-03-15 15:13:30,617 - instagram_api_integration - ERROR - [ERROR] Instagram API request failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID/media?fields=id%2Ccaption%2Cmedia_type%2Cmedia_url%2Cpermalink%2Ctimestamp%2Ccomments_count%2Clikes_count&limit=3&access_token=YOUR_INSTAGRAM_ACCESS_TOKEN
+2026-03-15 15:13:30,620 - instagram_api_integration - ERROR - [ERROR] Failed to get Instagram media: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID/media?fields=id%2Ccaption%2Cmedia_type%2Cmedia_url%2Cpermalink%2Ctimestamp%2Ccomments_count%2Clikes_count&limit=3&access_token=YOUR_INSTAGRAM_ACCESS_TOKEN
+2026-03-15 15:13:31,147 - twitter_api_integration - ERROR - [ERROR] Twitter API request failed: 401 Client Error: Unauthorized for url: https://api.twitter.com/2/users/me/tweets?max_results=3&tweet.fields=created_at%2Cpublic_metrics%2Cauthor_id
+2026-03-15 15:13:31,148 - twitter_api_integration - ERROR - [ERROR] Failed to get home timeline: 401 Client Error: Unauthorized for url: https://api.twitter.com/2/users/me/tweets?max_results=3&tweet.fields=created_at%2Cpublic_metrics%2Cauthor_id
+2026-03-15 15:13:35,221 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 15:13:35,228 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_151335_personal_business_sync.json
+2026-03-15 15:13:35,229 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_151335_calendar_integration.json
+2026-03-15 15:13:35,229 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 15:13:35,230 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_151335.md
+2026-03-15 15:13:35,231 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_151335.json
+2026-03-15 15:13:35,232 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_151335.json
+2026-03-15 15:13:35,233 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 15:13:35,234 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_151335.md
+2026-03-15 15:13:35,234 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 15:13:35,235 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_151335.md
+2026-03-15 15:13:35,237 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 15:13:35,238 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151335.json
+2026-03-15 15:13:35,238 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 15:13:40,241 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,242 - error_recovery - INFO - Found 23 potential issues
+2026-03-15 15:13:40,242 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 15:13:40,244 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,244 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,245 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,246 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 15:13:40,247 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,247 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,247 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,247 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 15:13:40,248 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,248 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,248 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,248 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 15:13:40,249 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,249 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,249 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,250 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 15:13:40,250 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,250 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,251 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,251 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 15:13:40,252 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,252 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,252 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,252 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145013.json
+2026-03-15 15:13:40,253 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,253 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,253 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,253 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145056.json
+2026-03-15 15:13:40,254 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,254 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,255 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,255 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145101.json
+2026-03-15 15:13:40,255 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,255 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,256 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,256 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150518.json
+2026-03-15 15:13:40,257 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,257 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,257 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,257 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150523.json
+2026-03-15 15:13:40,258 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,258 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,258 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,259 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150619.json
+2026-03-15 15:13:40,259 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,259 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,260 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,260 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150624.json
+2026-03-15 15:13:40,260 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,261 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,261 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,261 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151249.json
+2026-03-15 15:13:40,262 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,262 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,262 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,263 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151254.json
+2026-03-15 15:13:40,263 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,263 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,264 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,264 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151335.json
+2026-03-15 15:13:40,264 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,264 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,265 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,265 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 15:13:40,266 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,266 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,266 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,266 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 15:13:40,267 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,267 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,267 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,268 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145013.json
+2026-03-15 15:13:40,268 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,268 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,269 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,269 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145101.json
+2026-03-15 15:13:40,269 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,269 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,270 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,270 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150523.json
+2026-03-15 15:13:40,271 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,271 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,271 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,271 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150624.json
+2026-03-15 15:13:40,272 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,272 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,273 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,273 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_151254.json
+2026-03-15 15:13:40,273 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151340.json
+2026-03-15 15:13:40,273 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:13:40,274 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151340.json
+2026-03-15 15:13:40,275 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_151340.json
+2026-03-15 15:13:40,277 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 15:13:40,278 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 15:13:40,280 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 15:13:40,282 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_151340_1
+2026-03-15 15:13:40,283 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_151340_1
+2026-03-15 15:13:40,283 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_151340_1
+2026-03-15 15:13:45,287 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_151340_1 execution completed with status: created
+2026-03-15 15:13:45,290 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_151340_1 stopped
+2026-03-15 15:14:36,237 - facebook_api_integration - ERROR - [ERROR] Facebook API request failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_FACEBOOK_PAGE_ID/posts?fields=id%2Cmessage%2Ccreated_time%2Ccomments%2Clikes%2Cshares&limit=3&access_token=YOUR_FACEBOOK_PAGE_ACCESS_TOKEN
+2026-03-15 15:14:36,238 - facebook_api_integration - ERROR - [ERROR] Failed to get Facebook page posts: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_FACEBOOK_PAGE_ID/posts?fields=id%2Cmessage%2Ccreated_time%2Ccomments%2Clikes%2Cshares&limit=3&access_token=YOUR_FACEBOOK_PAGE_ACCESS_TOKEN
+2026-03-15 15:14:36,633 - instagram_api_integration - ERROR - [ERROR] Instagram API request failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID/media?fields=id%2Ccaption%2Cmedia_type%2Cmedia_url%2Cpermalink%2Ctimestamp%2Ccomments_count%2Clikes_count&limit=3&access_token=YOUR_INSTAGRAM_ACCESS_TOKEN
+2026-03-15 15:14:36,635 - instagram_api_integration - ERROR - [ERROR] Failed to get Instagram media: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID/media?fields=id%2Ccaption%2Cmedia_type%2Cmedia_url%2Cpermalink%2Ctimestamp%2Ccomments_count%2Clikes_count&limit=3&access_token=YOUR_INSTAGRAM_ACCESS_TOKEN
+2026-03-15 15:14:37,179 - twitter_api_integration - ERROR - [ERROR] Twitter API request failed: 401 Client Error: Unauthorized for url: https://api.twitter.com/2/users/me/tweets?max_results=3&tweet.fields=created_at%2Cpublic_metrics%2Cauthor_id
+2026-03-15 15:14:37,181 - twitter_api_integration - ERROR - [ERROR] Failed to get home timeline: 401 Client Error: Unauthorized for url: https://api.twitter.com/2/users/me/tweets?max_results=3&tweet.fields=created_at%2Cpublic_metrics%2Cauthor_id
+2026-03-15 15:14:41,266 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 15:14:41,273 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_151441_personal_business_sync.json
+2026-03-15 15:14:41,273 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_151441_calendar_integration.json
+2026-03-15 15:14:41,274 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 15:14:41,274 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_151441.md
+2026-03-15 15:14:41,276 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_151441.json
+2026-03-15 15:14:41,277 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_151441.json
+2026-03-15 15:14:41,278 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 15:14:41,280 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_151441.md
+2026-03-15 15:14:41,280 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 15:14:41,281 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_151441.md
+2026-03-15 15:14:41,282 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 15:14:41,283 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151441.json
+2026-03-15 15:14:41,283 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 15:14:46,284 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,285 - error_recovery - INFO - Found 26 potential issues
+2026-03-15 15:14:46,285 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 15:14:46,286 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,286 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,287 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,287 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 15:14:46,288 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,288 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,288 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,288 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 15:14:46,289 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,289 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,289 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,290 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 15:14:46,290 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,290 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,291 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,291 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 15:14:46,291 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,292 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,292 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,292 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 15:14:46,293 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,293 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,293 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,293 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145013.json
+2026-03-15 15:14:46,294 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,294 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,295 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,295 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145056.json
+2026-03-15 15:14:46,295 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,295 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,296 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,296 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145101.json
+2026-03-15 15:14:46,297 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,297 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,297 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,297 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150518.json
+2026-03-15 15:14:46,298 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,298 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,298 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,299 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150523.json
+2026-03-15 15:14:46,299 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,299 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,300 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,300 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150619.json
+2026-03-15 15:14:46,301 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,301 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,301 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,301 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150624.json
+2026-03-15 15:14:46,302 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,302 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,303 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,303 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151249.json
+2026-03-15 15:14:46,303 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,303 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,304 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,304 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151254.json
+2026-03-15 15:14:46,305 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,305 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,305 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,305 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151335.json
+2026-03-15 15:14:46,306 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,306 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,306 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,306 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151340.json
+2026-03-15 15:14:46,307 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,307 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,307 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,308 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151441.json
+2026-03-15 15:14:46,308 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,308 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,309 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,309 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 15:14:46,309 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,309 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,310 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,310 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 15:14:46,311 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,311 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,311 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,311 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145013.json
+2026-03-15 15:14:46,312 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,312 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,313 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,313 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145101.json
+2026-03-15 15:14:46,313 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,313 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,314 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,314 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150523.json
+2026-03-15 15:14:46,314 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,314 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,315 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,315 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150624.json
+2026-03-15 15:14:46,315 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,316 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,316 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,316 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_151254.json
+2026-03-15 15:14:46,317 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,317 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,317 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,317 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_151340.json
+2026-03-15 15:14:46,318 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_151446.json
+2026-03-15 15:14:46,318 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:14:46,318 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_151446.json
+2026-03-15 15:14:46,320 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_151446.json
+2026-03-15 15:14:46,322 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 15:14:46,323 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 15:14:46,324 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 15:14:46,326 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_151446_1
+2026-03-15 15:14:46,327 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_151446_1
+2026-03-15 15:14:46,327 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_151446_1
+2026-03-15 15:14:51,330 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_151446_1 execution completed with status: created
+2026-03-15 15:14:51,332 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_151446_1 stopped
+2026-03-15 15:23:06,518 - facebook_api_integration - ERROR - [ERROR] Facebook API request failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_FACEBOOK_PAGE_ID/posts?fields=id%2Cmessage%2Ccreated_time%2Ccomments%2Clikes%2Cshares&limit=3&access_token=YOUR_FACEBOOK_PAGE_ACCESS_TOKEN
+2026-03-15 15:23:06,520 - facebook_api_integration - ERROR - [ERROR] Failed to get Facebook page posts: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_FACEBOOK_PAGE_ID/posts?fields=id%2Cmessage%2Ccreated_time%2Ccomments%2Clikes%2Cshares&limit=3&access_token=YOUR_FACEBOOK_PAGE_ACCESS_TOKEN
+2026-03-15 15:23:06,928 - instagram_api_integration - ERROR - [ERROR] Instagram API request failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID/media?fields=id%2Ccaption%2Cmedia_type%2Cmedia_url%2Cpermalink%2Ctimestamp%2Ccomments_count%2Clikes_count&limit=3&access_token=YOUR_INSTAGRAM_ACCESS_TOKEN
+2026-03-15 15:23:06,929 - instagram_api_integration - ERROR - [ERROR] Failed to get Instagram media: 400 Client Error: Bad Request for url: https://graph.facebook.com/v18.0/YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID/media?fields=id%2Ccaption%2Cmedia_type%2Cmedia_url%2Cpermalink%2Ctimestamp%2Ccomments_count%2Clikes_count&limit=3&access_token=YOUR_INSTAGRAM_ACCESS_TOKEN
+2026-03-15 15:23:07,747 - twitter_api_integration - ERROR - [ERROR] Twitter API request failed: 401 Client Error: Unauthorized for url: https://api.twitter.com/2/users/me/tweets?max_results=3&tweet.fields=created_at%2Cpublic_metrics%2Cauthor_id
+2026-03-15 15:23:07,749 - twitter_api_integration - ERROR - [ERROR] Failed to get home timeline: 401 Client Error: Unauthorized for url: https://api.twitter.com/2/users/me/tweets?max_results=3&tweet.fields=created_at%2Cpublic_metrics%2Cauthor_id
+2026-03-15 15:23:11,831 - odoo_integration - ERROR - [ERROR] Connection to Odoo failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2026-03-15 15:23:11,835 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_152311_personal_business_sync.json
+2026-03-15 15:23:11,836 - cross_domain_integrator - INFO - [OK] Integration plan created: ./Cross_Domain\integration_plan_20260315_152311_calendar_integration.json
+2026-03-15 15:23:11,836 - cross_domain_integrator - INFO - [OK] Cross-domain integration check completed. Found 2 opportunities
+2026-03-15 15:23:11,836 - cross_domain_integrator - INFO - [OK] Cross-domain plan created: ./Cross_Domain\cross_domain_plan_20260315_152311.md
+2026-03-15 15:23:11,839 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_152311.json
+2026-03-15 15:23:11,840 - business_auditor - INFO - [OK] Business audit completed: ./Business_Audits\business_audit_20260315_152311.json
+2026-03-15 15:23:11,841 - business_auditor - INFO - [OK] Weekly business report generated: ./Business_Audits\weekly_business_report_20260315.md
+2026-03-15 15:23:11,842 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_152311.md
+2026-03-15 15:23:11,842 - ceo_briefing_generator - INFO - Generating CEO briefing (for testing)
+2026-03-15 15:23:11,843 - ceo_briefing_generator - INFO - [OK] CEO briefing generated: ./CEO_Briefings\ceo_briefing_20260315_152311.md
+2026-03-15 15:23:11,844 - error_recovery - INFO - Handling error: api_errors - API rate limit exceeded
+2026-03-15 15:23:11,845 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152311.json
+2026-03-15 15:23:11,845 - error_recovery - INFO - Waiting 5 seconds before retrying...
+2026-03-15 15:23:16,847 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,847 - error_recovery - INFO - Found 30 potential issues
+2026-03-15 15:23:16,847 - error_recovery - INFO - Handling error: system_health - System health OK
+2026-03-15 15:23:16,848 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,849 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,849 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,849 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144809.json
+2026-03-15 15:23:16,850 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,850 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,851 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,851 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144814.json
+2026-03-15 15:23:16,851 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,851 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,852 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,852 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144918.json
+2026-03-15 15:23:16,853 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,853 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,853 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,853 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_144923.json
+2026-03-15 15:23:16,854 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,854 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,855 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,855 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145008.json
+2026-03-15 15:23:16,855 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,855 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,856 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,856 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145013.json
+2026-03-15 15:23:16,857 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,857 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,857 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,857 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145056.json
+2026-03-15 15:23:16,858 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,858 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,859 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,859 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_145101.json
+2026-03-15 15:23:16,859 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,860 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,860 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,860 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150518.json
+2026-03-15 15:23:16,861 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,861 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,862 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,862 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150523.json
+2026-03-15 15:23:16,862 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,862 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,863 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,863 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150619.json
+2026-03-15 15:23:16,864 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,864 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,865 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,865 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_150624.json
+2026-03-15 15:23:16,865 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,865 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,866 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,866 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151249.json
+2026-03-15 15:23:16,867 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,867 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,867 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,867 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151254.json
+2026-03-15 15:23:16,868 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,868 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,869 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,869 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151335.json
+2026-03-15 15:23:16,869 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,869 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,870 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,870 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151340.json
+2026-03-15 15:23:16,871 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,871 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,871 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,871 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151441.json
+2026-03-15 15:23:16,872 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,872 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,873 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,873 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151446.json
+2026-03-15 15:23:16,873 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,874 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,874 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,874 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_151516.json
+2026-03-15 15:23:16,875 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,875 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,876 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,876 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_20260315_152311.json
+2026-03-15 15:23:16,876 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,876 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,877 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,877 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144814.json
+2026-03-15 15:23:16,877 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,877 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,878 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,878 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_144923.json
+2026-03-15 15:23:16,879 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,879 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,879 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,880 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145013.json
+2026-03-15 15:23:16,880 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,880 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,881 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,881 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_145101.json
+2026-03-15 15:23:16,882 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,882 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,882 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,882 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150523.json
+2026-03-15 15:23:16,883 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,883 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,884 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,884 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_150624.json
+2026-03-15 15:23:16,884 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,884 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,885 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,885 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_151254.json
+2026-03-15 15:23:16,886 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,886 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,887 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,887 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_151340.json
+2026-03-15 15:23:16,887 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,887 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,888 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,888 - error_recovery - INFO - Handling error: pending_recovery - Unrecovered error file: error_report_20260315_151446.json
+2026-03-15 15:23:16,889 - error_recovery - INFO - [OK] Error logged: ./Error_Logs\error_20260315_152316.json
+2026-03-15 15:23:16,889 - error_recovery - INFO - Using default recovery procedure...
+2026-03-15 15:23:16,889 - error_recovery - INFO - [OK] Error recovery attempt recorded: ./Error_Logs\recovery_20260315_152316.json
+2026-03-15 15:23:16,893 - error_recovery - INFO - [OK] Error report generated: ./Error_Logs\error_report_20260315_152316.json
+2026-03-15 15:23:16,895 - audit_logger - INFO - [OK] Operation logged: test_operation - ./Audit_Logs\Operations\operations_20260315.jsonl
+2026-03-15 15:23:16,896 - audit_logger - INFO - [OK] Audit summary generated: ./Audit_Logs\audit_summary_20260315.json
+2026-03-15 15:23:16,898 - audit_logger - INFO - [OK] Log cleanup completed: {'operations': 0, 'security': 0, 'compliance': 0}
+2026-03-15 15:23:16,900 - ralph_wiggum_loop - INFO - [OK] Ralph Wiggum loop created: loop_20260315_152316_1
+2026-03-15 15:23:16,901 - ralph_wiggum_loop - INFO - Starting Ralph Wiggum loop execution: loop_20260315_152316_1
+2026-03-15 15:23:16,901 - ralph_wiggum_loop - INFO - [OK] Autonomous task started in loop: loop_20260315_152316_1
+2026-03-15 15:23:21,903 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_152316_1 execution completed with status: created
+2026-03-15 15:23:21,904 - ralph_wiggum_loop - INFO - [OK] Loop loop_20260315_152316_1 stopped

@@ -1,0 +1,10 @@
+{
+  "job_id": "gmail_watcher_0",
+  "job_name": "gmail_watcher",
+  "timestamp": "2026-03-15T15:43:32.462938",
+  "success": true,
+  "duration_seconds": 0.893736,
+  "result": "None",
+  "run_count": 2,
+  "error_count": 0
+}

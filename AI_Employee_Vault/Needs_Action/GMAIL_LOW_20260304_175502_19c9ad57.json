@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "Google <no-reply@accounts.google.com>",
+  "subject": "Security alert",
+  "snippet": "Your password was changed usamaaryan981@gmail.com The password for your Google Account usamaaryan981@gmail.com was changed. If you didn&#39;t change it, you should recover your account. You can also",
+  "message_id": "19c9ad579cfc5e6a",
+  "received_at": "2026-03-04T17:55:02.994734",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

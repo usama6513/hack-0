@@ -1,0 +1,8 @@
+{
+  "id": "cleanup_logs_5",
+  "name": "cleanup_logs",
+  "schedule": "0 3 * * 0",
+  "function": "cleanup_logs",
+  "args": [],
+  "kwargs": {},
+  "next_run": 

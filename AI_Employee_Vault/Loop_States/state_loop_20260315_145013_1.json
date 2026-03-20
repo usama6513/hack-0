@@ -1,0 +1,20 @@
+{
+  "loop_id": "loop_20260315_145013_1",
+  "task_description": "Test task",
+  "max_iterations": 5,
+  "current_iteration": 1,
+  "timeout_seconds": 3600,
+  "start_time": "2026-03-15T14:50:13.641603",
+  "status": "stopped_by_user",
+  "steps_completed": [
+    {
+      "iteration": 1,
+      "timestamp": "2026-03-15T14:50:13.643567",
+      "result": "{'completed': False, 'result': 'Iteration 1'}",
+      "completed": true
+    }
+  ],
+  "error_count": 0,
+  "last_error": null,
+  "end_time": "2026-03-15T14:50:18.647923"
+}

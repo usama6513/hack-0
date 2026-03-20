@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "usamaaryan981@gmail.com",
+  "subject": "Test from AI Employee",
+  "snippet": "This is a test email sent from our AI Employee Gmail automation system!",
+  "message_id": "19cafd66050ce7b7",
+  "received_at": "2026-03-04T17:42:42.877012",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

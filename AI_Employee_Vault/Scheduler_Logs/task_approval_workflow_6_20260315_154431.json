@@ -1,0 +1,10 @@
+{
+  "job_id": "approval_workflow_6",
+  "job_name": "approval_workflow",
+  "timestamp": "2026-03-15T15:44:31.602693",
+  "success": true,
+  "duration_seconds": 0.003983,
+  "result": "None",
+  "run_count": 4,
+  "error_count": 0
+}

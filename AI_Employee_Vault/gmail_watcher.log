@@ -1,0 +1,23 @@
+2026-03-02 21:41:02,394 - gmail_watcher - INFO - Starting Gmail authentication flow...
+2026-03-02 21:41:33,997 - google_auth_oauthlib.flow - INFO - "GET /?state=eziUdWm3Yb8GRgCswEB8fP2PqT24vs&iss=https://accounts.google.com&code=4/0AfrIepD7_vYinYyJuVnd-MQI1GJhoaTS4WoU4URdCpNXjTtLqMMcAJqxBeekdbtz2yRphg&scope=https://www.googleapis.com/auth/gmail.modify%20https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-03-02 21:41:35,043 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 21:41:35,046 - gmail_watcher - INFO - Successfully authenticated with Gmail API
+2026-03-02 21:41:35,199 - linkedin_poster - INFO - Created LinkedIn post draft: linkedin_post_draft_20260302_214135.md
+2026-03-02 21:41:35,212 - email_sender - INFO - Created default MCP config at mcp_config.json
+2026-03-02 21:41:35,213 - email_sender - INFO - Created email draft: email_draft_20260302_214135.md
+2026-03-02 21:41:35,244 - approval_workflow - INFO - Created default approval settings at ./approval_config.json
+2026-03-02 21:41:35,259 - scheduler - INFO - Created default scheduler config at ./scheduler_config.json
+2026-03-02 21:41:35,261 - scheduler - ERROR - Error saving job schedule: Object of type datetime is not JSON serializable
+2026-03-02 21:41:35,261 - scheduler - INFO - Scheduled task 'test_job' with ID: test_job_0
+2026-03-02 21:41:35,261 - scheduler - INFO - Next run: 2026-03-02 16:45:00
+2026-03-02 21:41:35,268 - plan_generator - INFO - Created plan: PLAN_20260302_214135.md
+2026-03-02 21:42:41,139 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 21:42:41,141 - gmail_watcher - INFO - Successfully authenticated with Gmail API
+2026-03-02 21:42:41,199 - linkedin_poster - INFO - Created LinkedIn post draft: linkedin_post_draft_20260302_214241.md
+2026-03-02 21:42:41,201 - email_sender - INFO - Created email draft: email_draft_20260302_214241.md
+2026-03-02 21:42:41,220 - scheduler - ERROR - Error saving job schedule: Object of type datetime is not JSON serializable
+2026-03-02 21:42:41,221 - scheduler - INFO - Scheduled task 'test_job' with ID: test_job_0
+2026-03-02 21:42:41,221 - scheduler - INFO - Next run: 2026-03-02 16:45:00
+2026-03-02 21:42:41,222 - plan_generator - INFO - Created plan: PLAN_20260302_214241.md
+2026-03-02 21:42:54,092 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-02 21:42:54,093 - skills.gmail_watcher - INFO - Successfully authenticated with Gmail API

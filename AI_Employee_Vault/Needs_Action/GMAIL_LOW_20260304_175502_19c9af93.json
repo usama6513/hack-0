@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "Google <no-reply@accounts.google.com>",
+  "subject": "Security alert",
+  "snippet": "A new sign-in on Windows usamaaryan981@gmail.com We noticed a new sign-in to your Google Account on a Windows device. If this was you, you don&#39;t need to do anything. If not, we&#39;ll help you",
+  "message_id": "19c9af93dc9aa093",
+  "received_at": "2026-03-04T17:55:02.174620",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

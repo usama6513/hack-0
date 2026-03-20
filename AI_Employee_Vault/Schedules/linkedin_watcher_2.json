@@ -1,0 +1,8 @@
+{
+  "id": "linkedin_watcher_2",
+  "name": "linkedin_watcher",
+  "schedule": "*/10 * * * *",
+  "function": "run_linkedin_watcher",
+  "args": [],
+  "kwargs": {},
+  "next_run": 

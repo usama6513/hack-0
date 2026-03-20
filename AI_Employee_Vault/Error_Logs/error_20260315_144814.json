@@ -1,0 +1,9 @@
+{
+  "type": "pending_recovery",
+  "message": "Unrecovered error file: error_20260315_144809.json",
+  "context": {
+    "file": "error_20260315_144809.json"
+  },
+  "timestamp": "2026-03-15T14:48:14.223020",
+  "severity": "medium"
+}

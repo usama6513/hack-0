@@ -1,0 +1,7 @@
+{
+  "default_max_iterations": 10,
+  "default_timeout": 3600,
+  "check_interval": 5,
+  "enable_state_persistence": true,
+  "enable_parallel_loops": true
+}

@@ -1,0 +1,15 @@
+{
+  "period": "Last 1 days",
+  "start_date": "2026-03-14",
+  "end_date": "2026-03-15",
+  "operations": {
+    "20260315": 10
+  },
+  "security_events": {
+    "20260315": 0
+  },
+  "compliance_records": {
+    "20260315": 0
+  },
+  "generated_at": "2026-03-15T15:23:16.895758"
+}

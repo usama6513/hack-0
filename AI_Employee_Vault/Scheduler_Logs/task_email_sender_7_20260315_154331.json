@@ -1,0 +1,10 @@
+{
+  "job_id": "email_sender_7",
+  "job_name": "email_sender",
+  "timestamp": "2026-03-15T15:43:31.585051",
+  "success": true,
+  "duration_seconds": 0.005039,
+  "result": "None",
+  "run_count": 2,
+  "error_count": 0
+}

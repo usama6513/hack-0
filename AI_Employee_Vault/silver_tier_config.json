@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "tier": "silver",
+  "enabled_skills": {
+    "gmail_watcher": true,
+    "whatsapp_watcher": true,
+    "linkedin_watcher": true,
+    "linkedin_poster": true,
+    "email_sender": true,
+    "approval_workflow": true,
+    "scheduler": true,
+    "plan_generator": true
+  },
+  "settings": {
+    "check_interval": 60,
+    "approval_timeout": 24,
+    "max_concurrent_tasks": 5,
+    "log_level": "INFO"
+  },
+  "integrations": {
+    "mcp_enabled": true,
+    "browser_automation": true,
+    "api_integrations": true
+  }
+}

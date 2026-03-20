@@ -1,0 +1,47 @@
+{
+  "audit_type": "comprehensive_business_audit",
+  "timestamp": "2026-03-15T15:05:18.623242",
+  "summary": {
+    "total_social_media_posts": 18,
+    "total_communications_handled": 39,
+    "automated_tasks_tracked": 4
+  },
+  "detailed_metrics": {
+    "timestamp": "2026-03-15T15:05:18.623242",
+    "social_media": {
+      "linkedin_posts": 6,
+      "facebook_posts": 4,
+      "instagram_posts": 4,
+      "twitter_posts": 4
+    },
+    "communications": {
+      "gmail_processed": 35,
+      "emails_sent": 4,
+      "whatsapp_messages": 0
+    },
+    "revenue_activities": {
+      "potential_leads": 0,
+      "follow_ups_pending": 0,
+      "revenue_generating_content": 0
+    },
+    "automated_tasks": {
+      "plans_created": 4,
+      "tasks_automated": 0,
+      "tasks_pending": 0
+    },
+    "accounting_data": {
+      "accounting_files": 0,
+      "recent_syncs": 0
+    }
+  },
+  "insights": [
+    "Total social media posts: 18",
+    "High social media activity - consider optimizing posting schedule",
+    "Total communications handled: 39"
+  ],
+  "recommendations": [
+    "Continue monitoring business metrics for optimization opportunities",
+    "Regularly review and update automation workflows"
+  ],
+  "status": "completed"
+}

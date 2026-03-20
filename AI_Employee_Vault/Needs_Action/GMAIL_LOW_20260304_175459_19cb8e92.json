@@ -1,0 +1,15 @@
+{
+  "type": "gmail_email",
+  "priority": "LOW",
+  "from": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
+  "subject": "Delivery Status Notification (Failure)",
+  "snippet": "Address not found Your message wasn&#39;t delivered to mehakmemon12345678@example.com because the domain example.com couldn&#39;t be found. Check for typos or unnecessary spaces and try again. LEARN",
+  "message_id": "19cb8e92188b4163",
+  "received_at": "2026-03-04T17:54:59.955634",
+  "status": "unread",
+  "suggested_actions": [
+    "Review email content",
+    "Draft response if needed",
+    "Categorize by priority"
+  ]
+}

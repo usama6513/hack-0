@@ -1,0 +1,81 @@
+{
+  "version": "2.0.0",
+  "tier": "gold",
+  "enabled_skills": {
+    "gmail_watcher": true,
+    "whatsapp_watcher": true,
+    "linkedin_watcher": true,
+    "linkedin_poster": true,
+    "email_sender": true,
+    "approval_workflow": true,
+    "scheduler": true,
+    "plan_generator": true,
+    "facebook_api_integration": true,
+    "instagram_api_integration": true,
+    "twitter_api_integration": true,
+    "odoo_integration": true,
+    "cross_domain_integrator": true,
+    "business_auditor": true,
+    "ceo_briefing_generator": true,
+    "error_recovery": true,
+    "audit_logger": true,
+    "ralph_wiggum_loop": true
+  },
+  "settings": {
+    "check_interval": 60,
+    "approval_timeout": 24,
+    "max_concurrent_tasks": 5,
+    "log_level": "INFO",
+    "audit_enabled": true,
+    "error_recovery_enabled": true,
+    "social_media_enabled": true,
+    "accounting_integration_enabled": true
+  },
+  "integrations": {
+    "mcp_enabled": true,
+    "browser_automation": true,
+    "api_integrations": true,
+    "odoo_enabled": true,
+    "social_media_enabled": true
+  },
+  "gold_features": {
+    "cross_domain_sync": true,
+    "weekly_audits": true,
+    "ceo_briefings": true,
+    "advanced_error_handling": true,
+    "comprehensive_logging": true,
+    "autonomous_loops": true
+  },
+  "mcp_servers": {
+    "social_media_mcp": {
+      "enabled": true,
+      "port": 8081
+    },
+    "email_mcp": {
+      "enabled": true,
+      "port": 8082
+    },
+    "accounting_mcp": {
+      "enabled": true,
+      "port": 8083
+    },
+    "communication_mcp": {
+      "enabled": true,
+      "port": 8084
+    }
+  },
+  "directories": {
+    "accounting": "Accounting",
+    "social_media": "Social_Media",
+    "facebook_posts": "Facebook_Posts",
+    "instagram_posts": "Instagram_Posts",
+    "twitter_posts": "Twitter_Posts",
+    "ceo_briefings": "CEO_Briefings",
+    "business_audits": "Business_Audits",
+    "error_logs": "Error_Logs",
+    "audit_logs": "Audit_Logs",
+    "ralph_loops": "Ralph_Loops",
+    "cross_domain": "Cross_Domain",
+    "mcp_servers": "MCP_Servers"
+  }
+}

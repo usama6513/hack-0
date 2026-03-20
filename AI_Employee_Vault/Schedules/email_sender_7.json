@@ -1,0 +1,8 @@
+{
+  "id": "email_sender_7",
+  "name": "email_sender",
+  "schedule": "*/1 * * * *",
+  "function": "run_email_sender",
+  "args": [],
+  "kwargs": {},
+  "next_run": 
